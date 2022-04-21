@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Gfx\Gfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\BoxShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\RigidBody.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\SphereShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Spring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Gfx\Gfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Math\Matrix3f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Math\Quaternionf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Math\Vector2f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Math\Vector3f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Std\CMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Std\CStdInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\BoxShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\RigidBody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\SphereShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Particle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\src\Spring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\dev\Simulacion\UTAD-SIM02-Rigidbody\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2B0A84C1-C84F-3BF5-B0D4-B9DF3E04ECD6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2E9BF34B-98C9-39AE-A729-C8ADF543952D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
