@@ -1,3 +1,0 @@
-D:/dev/Simulacion/UTAD-SIM02-Rigidbody/build-vs2019/CMakeFiles/UTAD-SIM02-RigidBody.dir
-D:/dev/Simulacion/UTAD-SIM02-Rigidbody/build-vs2019/CMakeFiles/ALL_BUILD.dir
-D:/dev/Simulacion/UTAD-SIM02-Rigidbody/build-vs2019/CMakeFiles/ZERO_CHECK.dir
